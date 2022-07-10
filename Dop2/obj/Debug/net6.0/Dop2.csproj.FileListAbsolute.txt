@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\bin\Debug\net6.0\Dop2.exe
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\bin\Debug\net6.0\Dop2.deps.json
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\bin\Debug\net6.0\Dop2.runtimeconfig.json
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\bin\Debug\net6.0\Dop2.dll
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\bin\Debug\net6.0\Dop2.pdb
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\obj\Debug\net6.0\Dop2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\obj\Debug\net6.0\Dop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\obj\Debug\net6.0\Dop2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\obj\Debug\net6.0\Dop2.AssemblyInfo.cs
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\obj\Debug\net6.0\Dop2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\obj\Debug\net6.0\Dop2.dll
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\obj\Debug\net6.0\refint\Dop2.dll
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\obj\Debug\net6.0\Dop2.pdb
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\obj\Debug\net6.0\Dop2.genruntimeconfig.cache
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 3\Dop2\obj\Debug\net6.0\ref\Dop2.dll
